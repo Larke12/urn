@@ -1,42 +1,45 @@
 {
   "title": "Spyro the Dragon Any%",
-  "start_delay": "25.000000",
+  "attempt_count": 4,
+  "start_delay": "24.970000",
   "splits": [
     {
-      "title": "Artisans",
-      "time": "4:17.437999",
-      "best_time": "4:17.437999",
-      "best_segment": "4:17.437999"
+      "title": "Artisans | 11 Dragon",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
     },
     {
-      "title": "Peace Keepers",
-      "time": "16:11.346000",
-      "best_time": "16:11.346000",
-      "best_segment": "11:53.908000"
+      "title": "Peace Keepers | 1,200 Gem",
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
     },
     {
       "title": "Magic Crafters",
-      "time": "30:22.172000",
-      "best_time": "30:22.172000",
-      "best_segment": "14:04.076000"
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
     },
     {
       "title": "Beast Makers",
-      "time": "44:56.123999",
-      "best_time": "44:56.123999",
-      "best_segment": "14:33.951999"
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
     },
     {
       "title": "Dream Weavers",
-      "time": "51:40.836999",
-      "best_time": "51:40.836999",
-      "best_segment": "6:43.307999"
+      "time": "0.000000",
+      "best_time": "0.000000",
+      "best_segment": "0.000000"
     },
     {
       "title": "Gnasty Gnorc",
-      "time": "56:14.951000",
-      "best_time": "56:14.951000",
-      "best_segment": "4:34.113999"
+      "time": "0.000000",
+      "best_time": "1:30:00.000000",
+      "best_segment": "0.000000"
     }
-  ]
+  ],
+  "width": 320,
+  "height": 340
 }

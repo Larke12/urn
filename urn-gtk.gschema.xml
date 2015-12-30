@@ -7,22 +7,22 @@
       <description>Start with window decorations.</description>
     </key>
     <key name="hide-cursor" type="b">
-      <default>true</default>
+      <default>false</default>
       <summary>Hide cursor</summary>
       <description>Hides the cursor when it hovers over the window.</description>
     </key>
     <key name="theme" type="s">
-      <default>'standard'</default>
+      <default>'material-esque'</default>
       <summary>Theme</summary>
       <description>Window theme.</description>
     </key>
     <key name="theme-variant" type="s">
-      <default>''</default>
+      <default>'material-esque-light'</default>
       <summary>Theme variant</summary>
       <description>Window theme variant.</description>
     </key>
     <key name="global-hotkeys" type="b">
-      <default>false</default>
+      <default>true</default>
       <summary>Global hotkeys</summary>
       <description>Enables global hotkeys for timer controls.</description>
     </key>
